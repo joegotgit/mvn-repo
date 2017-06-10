@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
   <groupId>java-tooling</groupId>
-  <artifactId>java-log-file-filter-tool</artifactId>
+  <artifactId>java-log-file-filter-tool.gui</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <versioning>
     <snapshot>
@@ -11,7 +11,18 @@
     <lastUpdated>20170610180521</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.0.1-20170610.180521-1</value>
+        <updated>20170610180521</updated>
+      </snapshotVersion>
+      <snapshotVersion>
         <extension>pom</extension>
+        <value>0.0.1-20170610.180521-1</value>
+        <updated>20170610180521</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>jar-with-dependencies</classifier>
+        <extension>jar</extension>
         <value>0.0.1-20170610.180521-1</value>
         <updated>20170610180521</updated>
       </snapshotVersion>

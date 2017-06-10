@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>java-tooling</groupId>
-  <artifactId>java-log-file-filter-tool</artifactId>
+  <artifactId>java-log-file-filter-tool.gui</artifactId>
   <versioning>
     <versions>
       <version>0.0.1-SNAPSHOT</version>
